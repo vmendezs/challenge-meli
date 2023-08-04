@@ -1,4 +1,4 @@
-📂 ¡Bienvenidos al Repositorio de Soluciones y Predicciones! 📂
+📂 ¡Bienvenidos al Challenge #3 - Similitud! 📂
 
 En esta sección de mi repositorio, te aguardan tres archivos:
 
